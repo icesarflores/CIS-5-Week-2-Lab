@@ -1,7 +1,7 @@
 #include <iostream>
 
 // Name: Cesar Flores
-// CIS 5 Week 02 · Program structure
+// CIS 5 Week 02 Lab - Program structure
 
 int main() {
 using namespace std;
