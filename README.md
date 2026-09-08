@@ -10,8 +10,7 @@
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
-**Your demo:** _add your link here_
-
+**Your demo:** https://youtu.be/pe1_NiKY4fw
 
 ## Scenario
 Write a short intro in one `.cpp` file the compiler can follow: five or six labeled lines, a name-and-week comment, then push it to GitHub.
